@@ -76,7 +76,8 @@ Key data domains:
 ---
 
 ## 📷 Project Preview
-*(Add screenshots of SQL queries or results here)*
+CUSTOMER SEGMENTATION.png
+
 
 ---
 
